@@ -4,4 +4,5 @@ resources:
 - deployment-frontend.yaml
 - deployment.yaml
 - service.yaml
+- route.yaml
 - service-frontend.yaml
