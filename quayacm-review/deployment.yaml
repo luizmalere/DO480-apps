@@ -18,7 +18,7 @@ spec:
         app: budget-app
         name: budget-app
     spec:
-      containers: central-quay-registry.apps.ocp4.example.com/finance/budget-app-dev:1.0
+      containers: central-quay-registry.apps.ocp4.example.com/finance/budget-app:production
       - image: 
         name: budget-app
         ports:
